@@ -1,0 +1,10 @@
+1. Convert the datatype of 'Date' column to Date-Time format
+2. Add a new column 'year' in the dataframe which contains only years
+3. Add a new column 'month' as 2nd column in the dataframe which contains only month
+4. Remove the columns year and month from the dataframe
+5. Create a heatmap of all the null values
+6. Show all the records where the number is 0. What is count of such records?
+7. What is the minimum and maximum average_price per year in england?
+8. What is the maximum and minimum number of crimes recorded per area?
+9. What is max and min no of crimes recorded per area?
+10. Show the total count of records of each area, where average price is less than 100000.
